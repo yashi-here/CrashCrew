@@ -11,7 +11,7 @@ CarbonWealth is a web-based platform that empowers users to turn environmental i
   ### Impact Visualizer: A dedicated progress page that tracks the completion of actions against the monthly target.
   ### Conversion Logic: Clear transparency on how ecological actions translate into carbon credit value and, ultimately, the user's target currency.
 # **Technical Workflow**
-The application operates on a four-step logic flow:
+### The application operates on a four-step logic flow:
 ### Data Collection: Captures user baseline via the survey.
 ### Conversion Engine: Calculates the Carbon Dioxide Equivalent of various activities and maps them to current carbon market values.
 ### Optimization Algorithm: Matches a combination of low, medium, and high-effort tasks to reach the user's specific Rupees Target Amount.
